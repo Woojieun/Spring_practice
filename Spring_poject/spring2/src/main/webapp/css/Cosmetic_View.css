@@ -1,0 +1,86 @@
+#cosmetic_name {
+	font-weight: 500;
+	margin: 15px 0 0 0;
+	font-size: 25px;
+}
+
+#cosmetic_content {
+	margin: 0 180px 0 180px;
+}
+
+#cosmetic_price {
+	color: #db0000;
+	text-align: right;
+	font-weight: bold;
+	font-size: 28px;
+	margin: 20px 15px 0 0;
+}
+
+#shipping_data {
+	font-weight: 800;
+	color: #2a2a2a;
+}
+
+#shipping_data1 {
+	font-weight: 800;
+	color: #5a5a5a;
+}
+
+#shipping_data2 {
+	font-weight: 800;
+	color: #5a5a5a;
+}
+
+#shipping_data_detail {
+	color: #808080;
+}
+
+#shipping_num_btn {
+	float: right;
+	margin: -80px 0 0 0;
+}
+
+#shipping_num_text {
+	position: absolute;
+		font-weight: 800;
+		color: #5a5a5a;
+		  top: 30%;
+	font-size: 16px;
+}
+
+#shipping_sum {
+	width: 50px;
+}
+
+.select_box {
+	margin: 0 0 10px 0;
+}
+
+.all_buy_button {
+	margin: 80px 0 0 0;
+}
+
+#shopping_basket_btn {
+	margin: 0 0 0 90px;
+}
+
+#buy_btn {
+	margin: 0 0 0 30px;
+}
+
+#shipping_sum {
+	width: 50px;
+	height: 38px;
+}
+
+#minus {
+	margin: -5px -5px 0 0;
+}
+
+#plus {
+	margin: -5px 0 0 -8px;
+}
+
+#all_hidden_text {
+	margin: 50px 0 0 0;
+}
